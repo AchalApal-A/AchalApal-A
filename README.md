@@ -3,14 +3,25 @@
 <h1 align="center">👋 Hey, I'm Achala Pal</h1>
 <h3 align="center">🚀 Passionate Developer | DevOps & Automation Enthusiast | Ex-LTIMindtree (Automation Developer) | MCA Student 🎓</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=achalapal-a&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge" />
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 ### 🔹 About Me  
-- 🎓 Currently pursuing **MCA at Thakur College of Management Studies Career Development and Research**  
-- 🚀 Exploring **React, DevOps**  
+- 🎓 Currently pursuing **MCA at Thakur College of Management Studies**  
+- 🚀 Exploring **React, DevOps, and Automation**  
 - 💼 Previously worked as an **Automation Developer at LTIMindtree**  
 - 📫 Reach me at **achalapal350@gmail.com**  
 - 📄 [View my Resume](https://drive.google.com/file/d/1HUE8L417poEFBDY-CGSes11EwDj4q1yz/view?usp=drive_link)  
+
+---
+
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=achalapal-a&theme=radical&no-frame=false&margin-w=10" alt="GitHub Trophies" />
+</p>
 
 ---
 
