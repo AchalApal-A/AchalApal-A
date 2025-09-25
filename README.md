@@ -26,14 +26,16 @@
 ---
 
 ### 🎯 Hobbies & Interests  
-📖 **Reading** | ✈️ **Traveling** | 🎙 **Talking** | 📲 **Watching Reels**  
+📖 **Reading** | ✈️ **Traveling** | 🎙 **Socializing** | 📲 **Watching Reels**  
 
 ---
 
 ### 📌 Tech Stack  
-**Languages:** Python, Java, JavaScript, SQL  
-**DevOps & Cloud:** Docker, Kubernetes, Azure (AZ-900 Certified)  
-**Tools & Frameworks:** Git, Jenkins, Selenium, React, Bootstrap  
+**Languages:** Python, Java 
+**Cloud & Automation Tools:** AWS, Azure, Microsoft Power Automate, Stackstorm, BigPanda, ServiceNow, Automation Anywhere
+**Databases:** MSSQL Server, SQLite  
+**Version Control and Development Tool:** Github 
+**Operating System:** Windows, Linux
 
 <p align="left">  
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  
